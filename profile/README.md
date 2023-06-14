@@ -14,5 +14,5 @@ The OSM Americana project includes not the cartography needed to build the map, 
 * The [OSM Americana cartographic style](https://github.com/ZeLonewolf/openstreetmap-americana).
 * The [Americana Community Vector Tile Server](https://tile.ourmap.us/).
 * OSM diary entry "[Host an OpenMapTiles Vector Tile Server on AWS for $19.75/month](https://www.openstreetmap.org/user/ZeLonewolf/diary/401697)".
-* [An American Map Style](https://www.youtube.com/watch?v=4T8FxOPlqXA&t=4s) presentation at State of the Map US '22
+* [An American map style](https://www.youtube.com/watch?v=4T8FxOPlqXA&t=4s) presentation at State of the Map US '22
 * [The best of both worlds: designing an international American map](https://wiki.openstreetmap.org/wiki/File:The_best_of_both_worlds.pdf) presentation at State of the Map US '23
