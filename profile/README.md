@@ -1,19 +1,21 @@
-# OpenStreetMap Americana
+# OpenStreetMap Americana Project
+
+<img src="https://github.com/ZeLonewolf/openstreetmap-americana/raw/main/doc-img/osm-americana-logo.png" alt="Americana map style logo" width="160" />
 
 _A quintessentially American map style_ [🗺 View the map](https://zelonewolf.github.io/openstreetmap-americana/)
+## Purpose
+The purpose of the Americana project is to:
 
-<img src="doc-img/osm-americana-logo.png" alt="Americana map style logo" width="200"/>
-
-> _The United States of America is such a glorious mess of contradiction, such a crazy quilt of competing themes, such a fecund mishmash of people and ideas, that defining us is pretty much pointless. There is, of course, a kind of faded notion of "Americana", one that concerns Route 66, diners, freak rock formations, and the like—but even in its halcyon days this "roadside attraction" version of America was never an accurate or nuanced distillation of our massively complicated culture._ <br/><sub>-Hampton Sides, <i>[Americana: Dispatches from the New Frontier](<https://en.wikipedia.org/wiki/Americana_(book)>)</i> (2004)</sub>
-
-<br />
-
-The purpose of the Americana style is to:
-
-- Promote collaboration and common purpose in the American mapping community
+- Promote collaboration and shared purpose in the American mapping community
 - Express the American experience through cartography, taking inspiration from the familiar features of North American paper maps
-- Challenge the status quo by showcasing innovation and invention
+- Close technology gaps that impede the use of American cartographic principles. Where the technology to build our map doesn't exist, _we will build it_.
 
-The Americana style is the first digital map to achieve concurrent, state-specific highway shields arranged along the path of road. Representative highway shield rendering is of considerable cartographic importance to the American community. We do this proudly in an open source project using vector tile technology.
+The Americana style is the pioneering open-source digital vector-tile map incorporating concurrent, state-specific highway shields and American cartographic design principles. Accurately rendering highway shields holds significant cartographic value for the American community. We take great pride in dedicating this project to the public domain, with the aim of empowering individuals and organizations to freely disseminate familiar concepts in American cartography.
 
-Where the technology to build our map doesn't exist, _we will build it_.
+## Additional project links
+
+The OSM Americana project includes not the cartography needed to build the map, but also several pieces of supporting technology needed to implement it. Project components and links outside of this GitHub organization include:
+* The [OSM Americana cartographic style](https://github.com/ZeLonewolf/openstreetmap-americana).
+* The [Americana Community Vector Tile Server](https://tile.ourmap.us/).
+* OSM diary entry "[Host an OpenMapTiles Vector Tile Server on AWS for $19.75/month](https://www.openstreetmap.org/user/ZeLonewolf/diary/401697)".
+* [An American Map Style](https://www.youtube.com/watch?v=4T8FxOPlqXA&t=4s) presentation at State of the Map US '22
