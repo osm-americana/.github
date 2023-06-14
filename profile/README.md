@@ -1,7 +1,3 @@
-# OpenStreetMap Americana Project
-
-<img src="https://github.com/ZeLonewolf/openstreetmap-americana/raw/main/doc-img/osm-americana-logo.png" alt="Americana map style logo" width="160" />
-
 _A quintessentially American map style_ [🗺 View the map](https://zelonewolf.github.io/openstreetmap-americana/)
 ## Purpose
 The purpose of the Americana project is to:
