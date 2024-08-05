@@ -1,4 +1,4 @@
-_A quintessentially American map style_ [🗺 View the map](https://zelonewolf.github.io/openstreetmap-americana/)
+_A quintessentially American map style_ [🗺 View the map](https://americanamap.org/)
 ## Purpose
 The purpose of the Americana project is to:
 
@@ -11,7 +11,7 @@ The Americana style is the pioneering open-source digital vector-tile map incorp
 ## Additional project links
 
 The OSM Americana project includes not the cartography needed to build the map, but also several pieces of supporting technology needed to implement it. Project components and links outside of this GitHub organization include:
-* The [OSM Americana cartographic style](https://github.com/ZeLonewolf/openstreetmap-americana).
+* The [OSM Americana cartographic style](https://github.com/osm-americana/openstreetmap-americana).
 * The [Americana Community Vector Tile Server](https://tile.ourmap.us/).
 * OSM diary entry "[Hosting a continuously-updating vector tile server using AWS and an old laptop for $1.61/month](https://www.openstreetmap.org/user/ZeLonewolf/diary/402227)".
 * [An American map style](https://www.youtube.com/watch?v=4T8FxOPlqXA&t=4s) presentation at State of the Map US '22
